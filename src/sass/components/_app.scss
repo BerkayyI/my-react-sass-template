@@ -1,0 +1,21 @@
+html{
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Hide overflow for the entire page */
+    height: 100%; /* Ensure the body takes the full height */
+}
+
+.App {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100vh;
+    overflow: hidden;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* Hide scrollbar for all browsers */
+    -ms-overflow-style: none;  /* Internet Explorer and Edge */
+    scrollbar-width: none;  /* Firefox */
+}

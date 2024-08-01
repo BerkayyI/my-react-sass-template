@@ -67,5 +67,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 This project is licensed under the MIT License.
 
 ---
-
-This README file provides an overview of the project, instructions for getting started, and an example of how to use the template.
